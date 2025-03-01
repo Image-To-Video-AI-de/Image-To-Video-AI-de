@@ -7,9 +7,9 @@
 
 In der sich rasant entwickelnden Welt der künstlichen Intelligenz hat sich Image to Video AI als bahnbrechende Innovation etabliert. Diese fortschrittliche Technologie ermöglicht es Benutzern, statische Bilder in dynamische Videos zu verwandeln, was neue Perspektiven für Content-Creator, Marketingexperten und Kreativschaffende eröffnet.
 
-[Image to Video AI](https://imagetovideoai.app/)
-[Wan 2.1](https://wan21.org/)
-[Mochi 1 AI](https://mochi1ai.com/)
+[Image to Video AI](https://imagetovideoai.app/de)
+[Wan 2.1](https://wan21.org/de)
+[Mochi 1 AI](https://mochi1ai.com/de)
 
 ## Technologische Grundlagen und Funktionsweise
 
